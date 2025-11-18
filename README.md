@@ -11,6 +11,19 @@ Latest Version Android Studio
 
 ## ALGORITHM:
 
+1. Start the app and load the layout with EditText and Navigate button.
+
+
+2. Get input URL from EditText when button is clicked.
+
+
+3. Convert the URL to URI.
+
+
+4. Create an Implicit Intent with ACTION_VIEW and the URI.
+
+
+5. Start the activity to open the URL in the browser.
 
 
 ## PROGRAM:
